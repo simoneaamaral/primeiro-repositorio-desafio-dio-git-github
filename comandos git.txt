@@ -1,0 +1,21 @@
+********** NOVO PROJETO **********
+
+git init
+
+git add .
+
+git commit -m "mensagem explicativa"
+
+git branch -M main
+
+git remote add origin git@github.com:seuusuario/seurepositorio.git
+
+git push -u origin main
+
+
+
+********** CLONANDO PROJETO ********** 
+
+git clone endereço SSH
+
+cd nome do repositório
